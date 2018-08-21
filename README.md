@@ -8,3 +8,4 @@ Learning stuff like:
 - auth stuff
 - Express
 - refreshing react/redux
+- SendGrid
